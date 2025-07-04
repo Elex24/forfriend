@@ -28,7 +28,7 @@ document.getElementById("clickMe").addEventListener("click", () => {
     output.textContent = "🎉 Surprise! A Little Gift for You, Cutie!";
     output.classList.remove("hidden");
 
-    image.src = "https://i.pinimg.com/736x/50/53/eb/5053eb5bafb72c307403f9a5c94109c4.jpg";
+    image.src = "help.jpg";
     image.classList.remove("hidden");
   }
 });
